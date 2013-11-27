@@ -15,4 +15,5 @@ File prepared with [Markdown syntax](http://daringfireball.net/projects/markdown
 * [mv: Move files and directories](http://ss64.com/osx/mv.html)
 * [rm: Delete files and directories](http://ss64.com/osx/rm.html)
   quick tip option -rf is commonly used with rm, function is explained in the rm link above
-* [subl .: Open files and directories using Sublime](http://www.sublimetext.com/) (http://www.sublimetext.com/docs/3/osx_command_line.html)
+* [subl .: Open files and directories using Sublime](http://www.sublimetext.com/)
+* [Sublime command line](http://www.sublimetext.com/docs/3/osx_command_line.html)
