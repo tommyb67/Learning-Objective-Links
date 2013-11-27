@@ -7,3 +7,4 @@ Command Line
 * [touch: Create new files](http://ss64.com/osx/touch.html)
   An important note about touch.  It's actual function is to change the timestamp of a file.  If the file dosen't exist it creates it.  There is a lot of other functionality associated with this command, which can be reviewed in the link above.
 * [mkdir: nake directories (create folders)](http://ss64.com/osx/mkdir.html)
+* [cd: change directories](http://ss64.com/osx/cd.html)
