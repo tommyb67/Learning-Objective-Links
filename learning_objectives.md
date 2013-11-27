@@ -19,5 +19,6 @@ File prepared with [Markdown syntax](http://daringfireball.net/projects/markdown
 * [Sublime command line](http://www.sublimetext.com/docs/3/osx_command_line.html)
 
 ## Git and Github
-### [Git](http://git-scm.com/)
-* Git: A free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
+* Explain the difference between Git and Github
+  * [Git](http://git-scm.com/) A free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
+  * [Github](https://github.com/)
