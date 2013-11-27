@@ -1,3 +1,4 @@
 WDI Learning Objectve Links
 
-* [Index of the command line](http://ss64.com/osx/)
+Command Line
+* [A-Z Index of the command line](http://ss64.com/osx/)
