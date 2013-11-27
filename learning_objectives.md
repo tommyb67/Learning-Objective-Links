@@ -1,5 +1,7 @@
 #WDI Learning Objectve Links
 
+File prepared with [Markdown syntax](http://daringfireball.net/projects/markdown/syntax#p)
+
 ##Command Line
 * [A-Z Index of the command line](http://ss64.com/osx/)
 * [pwd: Path of current directory](http://ss64.com/osx/pwd.html)
