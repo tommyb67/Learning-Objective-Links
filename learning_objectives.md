@@ -11,3 +11,4 @@ File prepared with [Markdown syntax](http://daringfireball.net/projects/markdown
 * [mkdir: nake directories (create folders)](http://ss64.com/osx/mkdir.html)
 * [cd: change directories](http://ss64.com/osx/cd.html)
   quick tip cd ~/ directory name - will move you immediately to that directory/folder
+* [cp: copy files and directories](http://ss64.com/osx/cp.html)
