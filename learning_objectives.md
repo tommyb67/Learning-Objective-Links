@@ -21,4 +21,9 @@ File prepared with [Markdown syntax](http://daringfireball.net/projects/markdown
 ## Git and Github
 * Explain the difference between Git and Github
   * [Git](http://git-scm.com/) A free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency. [About Git](http://git-scm.com/about)
-  * [Github](https://github.com/) "A web-based hosting service for software development projects that use the Git revision control system. GitHub offers both paid plans for private repositories, and free accounts for open source projects. As of May 2011, GitHub was the most popular code repository site for open source project" source: [wikipedia](http://en.wikipedia.org/wiki/GitHub).  [About Github](https://github.com/about)
+  * [Github](https://github.com/) A web-based hosting service for software development projects that use the Git revision control system. GitHub offers both paid plans for private repositories, and free accounts for open source projects. As of May 2011, GitHub was the most popular code repository site for open source project. source: [wikipedia](http://en.wikipedia.org/wiki/GitHub).  [About Github](https://github.com/about)
+* [Git Tutorials](https://www.atlassian.com/git)
+  * These tutorials are by a company called [Altassian](https://www.atlassian.com/)
+  * on a side note they also have a Git repo product called [Bitbucket](https://www.atlassian.com/software/bitbucket/overview) click on Bitbucket to explore.
+
+
