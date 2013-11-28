@@ -30,6 +30,18 @@ File prepared with [Markdown syntax](http://daringfireball.net/projects/markdown
   * [Ruby Docs 2.0](http://ruby-doc.org/)
   * [Ruby Docs 2.0: Integer](http://www.ruby-doc.org/core-2.0.0/Integer.html)
     * Integer is the basis for the two concrete classes that hold whole numbers, Bignum and Fixnum.
+  * [Ruby Docs 2.0: Float](http://ruby-doc.org/core-2.0.0/Float.html)
+    * Float objects represent inexact real numbers using the native architecture's double-precision floating point representation.
   * [Ruby Docs 2.0: String](http://ruby-doc.org/core-2.0.0/String.html#method-i-index)
+    * A String object holds and manipulates an arbitrary sequence of bytes, typically representing characters. String objects may be created using String::new or as literals.
+    * Because of aliasing issues, users of strings should be aware of the methods that modify the contents of a String object. Typically, methods with names ending in “!” modify their receiver, while those without a “!” return a new String. However, there are exceptions, such as String#[]=.
+
+  # Ruby Collections
+  * [Ruby Docs 2.0: Arrays](http://ruby-doc.org/core-2.0.0/Array.html)
+    * Arrays are ordered, integer-indexed collections of any object.
+    * Array indexing starts at 0, as in C or Java. A negative index is assumed to be relative to the end of the array---that is, an index of -1 indicates the last element of the array, -2 is the next to last element in the array, and so on.
+  * [Ruby Docs 2.0: Hashs](http://ruby-doc.org/core-2.0.0/Hash.html)
+    * A Hash is a dictionary-like collection of unique keys and their values. Also called associative arrays, they are similar to Arrays, but where an Array uses integers as its index, a Hash allows you to use any object type.
+    * Hashes enumerate their values in the order that the corresponding keys were inserted.
 
 
