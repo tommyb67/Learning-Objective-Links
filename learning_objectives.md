@@ -36,14 +36,14 @@ File prepared with [Markdown syntax](http://daringfireball.net/projects/markdown
     * A String object holds and manipulates an arbitrary sequence of bytes, typically representing characters. String objects may be created using String::new or as literals.
     * Because of aliasing issues, users of strings should be aware of the methods that modify the contents of a String object. Typically, methods with names ending in “!” modify their receiver, while those without a “!” return a new String. However, there are exceptions, such as String#[]=.
 
-  # Ruby Collections
+  ## Ruby Collections
   * [Ruby Docs 2.0: Array](http://ruby-doc.org/core-2.0.0/Array.html)
     * Arrays are ordered, integer-indexed collections of any object.
     * Array indexing starts at 0, as in C or Java. A negative index is assumed to be relative to the end of the array---that is, an index of -1 indicates the last element of the array, -2 is the next to last element in the array, and so on.
   * [Ruby Docs 2.0: Hash](http://ruby-doc.org/core-2.0.0/Hash.html)
     * A Hash is a dictionary-like collection of unique keys and their values. Also called associative arrays, they are similar to Arrays, but where an Array uses integers as its index, a Hash allows you to use any object type.
     * Hashes enumerate their values in the order that the corresponding keys were inserted.
-  * [Ruby Docs 2.0: Set](http://www.ruby-doc.org/stdlib-2.0.0/libdoc/set/rdoc/Set.html)
+  * [Ruby Docs 2.0: Set](http://www.ruby-doc.org/stdlib-2.0.0/libdoc/set/rdoc/Set.html) Not widely used but can be very helpful in some situations.
     * Set implements a collection of unordered values with no duplicates. This is a hybrid of Array's intuitive inter-operation facilities and Hash's fast lookup.
     * The equality of each couple of elements is determined according to Object#eql? and Object#hash, since Set uses Hash as storage.
     * Set is easy to use with Enumerable objects (implementing each). Most of the initializer methods and binary operators accept generic Enumerable objects besides sets and arrays. An Enumerable object can be converted to Set using the to_set method.
