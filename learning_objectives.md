@@ -24,6 +24,9 @@ File prepared with [Markdown syntax](http://daringfireball.net/projects/markdown
   * [Github](https://github.com/) A web-based hosting service for software development projects that use the Git revision control system. GitHub offers both paid plans for private repositories, and free accounts for open source projects. As of May 2011, GitHub was the most popular code repository site for open source project. source: [wikipedia](http://en.wikipedia.org/wiki/GitHub).  [About Github](https://github.com/about)
 * [Git Tutorials](https://www.atlassian.com/git)
   * These tutorials are by a company called [Altassian](https://www.atlassian.com/)
-  * on a side note they also have a Git repo product called [Bitbucket](https://www.atlassian.com/software/bitbucket/overview)
+  * On a side note they also have a Git repo product called [Bitbucket](https://www.atlassian.com/software/bitbucket/overview)
+
+  ## Ruby Basics & Strings
+  *
 
 
