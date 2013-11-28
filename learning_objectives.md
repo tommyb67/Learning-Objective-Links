@@ -27,6 +27,9 @@ File prepared with [Markdown syntax](http://daringfireball.net/projects/markdown
   * On a side note they also have a Git repo product called [Bitbucket](https://www.atlassian.com/software/bitbucket/overview)
 
   ## Ruby Basics & Strings
-  *
+  * [Ruby Docs 2.0](http://ruby-doc.org/)
+  * [Ruby Docs 2.0: Integer](http://www.ruby-doc.org/core-2.0.0/Integer.html)
+    * Integer is the basis for the two concrete classes that hold whole numbers, Bignum and Fixnum.
+  * [Ruby Docs 2.0: String](http://ruby-doc.org/core-2.0.0/String.html#method-i-index)
 
 
