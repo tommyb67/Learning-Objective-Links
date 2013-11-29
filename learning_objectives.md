@@ -49,3 +49,7 @@ File prepared with [Markdown syntax](http://daringfireball.net/projects/markdown
     * Set is easy to use with Enumerable objects (implementing each). Most of the initializer methods and binary operators accept generic Enumerable objects besides sets and arrays. An Enumerable object can be converted to Set using the to_set method.
 
 
+## Misc
+* [Reserved Words in Ruby on Rails](http://reservedwords.herokuapp.com/words?utf8=%E2%9C%93&q%5Bword_or_notes_cont%5D=)
+
+
