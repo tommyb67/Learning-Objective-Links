@@ -28,7 +28,7 @@ File prepared with [Markdown syntax](http://daringfireball.net/projects/markdown
 
 ## [Ruby](https://www.ruby-lang.org/en/)
 * Learning resources:
-*
+* [Learn Ruby the Hard Way](http://ruby.learncodethehardway.org/book/)
 
 ## Ruby Basics & Strings
 * [Ruby Docs 2.0](http://ruby-doc.org/)
