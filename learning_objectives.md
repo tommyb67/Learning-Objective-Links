@@ -26,6 +26,10 @@ File prepared with [Markdown syntax](http://daringfireball.net/projects/markdown
   * These tutorials are by a company called [Altassian](https://www.atlassian.com/)
   * On a side note they also have a Git repo product called [Bitbucket](https://www.atlassian.com/software/bitbucket/overview)
 
+## [Ruby](https://www.ruby-lang.org/en/)
+* Learning resources:
+*
+
 ## Ruby Basics & Strings
 * [Ruby Docs 2.0](http://ruby-doc.org/)
 * [Ruby Docs 2.0: Integer](http://www.ruby-doc.org/core-2.0.0/Integer.html)
@@ -51,5 +55,6 @@ File prepared with [Markdown syntax](http://daringfireball.net/projects/markdown
 
 ## Misc
 * [Reserved Words in Ruby on Rails](http://reservedwords.herokuapp.com/words?utf8=%E2%9C%93&q%5Bword_or_notes_cont%5D=)
+* [Carrierwave](https://github.com/carrierwaveuploader/carrierwave) - a gem for file uploads
 
 
