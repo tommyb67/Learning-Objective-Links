@@ -27,8 +27,10 @@ File prepared with [Markdown syntax](http://daringfireball.net/projects/markdown
   * On a side note they also have a Git repo product called [Bitbucket](https://www.atlassian.com/software/bitbucket/overview)
 
 ## [Ruby](https://www.ruby-lang.org/en/)
-* Learning resources:
+* Learning Resources:
     * [Learn Ruby the Hard Way](http://ruby.learncodethehardway.org/book/)
+    * [Ruby Koans](http://rubykoans.com/)
+    * [Ruby Monk](http://rubymonk.com/)
 
 ## Ruby Basics & Strings
 * [Ruby Docs 2.0](http://ruby-doc.org/)
