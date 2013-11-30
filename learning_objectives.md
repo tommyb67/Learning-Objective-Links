@@ -26,7 +26,8 @@ File prepared with [Markdown syntax](http://daringfireball.net/projects/markdown
   * These tutorials are by a company called [Altassian](https://www.atlassian.com/)
   * On a side note they also have a Git repo product called [Bitbucket](https://www.atlassian.com/software/bitbucket/overview)
 
-## [Ruby](https://www.ruby-lang.org/en/)
+## Ruby
+[Download](https://www.ruby-lang.org/en/)
 * Learning Resources:
     * [Learn Ruby the Hard Way](http://ruby.learncodethehardway.org/book/)
     * [Ruby Koans](http://rubykoans.com/)
