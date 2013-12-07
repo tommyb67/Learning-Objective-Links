@@ -60,5 +60,7 @@ File prepared with [Markdown syntax](http://daringfireball.net/projects/markdown
 * [Reserved Words in Ruby on Rails](http://reservedwords.herokuapp.com/words?utf8=%E2%9C%93&q%5Bword_or_notes_cont%5D=)
 * [Carrierwave](https://github.com/carrierwaveuploader/carrierwave) - a gem for file uploads
 * [Sublime shortcuts](http://www.marcelkalveram.com/2013/11/10-shortcuts-to-become-a-true-sublime-text-ninja/?ref=heydesigner)
+* [Backbone Tutorial](http://backbonetutorials.com/)
+* [Ruby Toolbox](https://www.ruby-toolbox.com/)
 
 
