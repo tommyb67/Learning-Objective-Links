@@ -32,6 +32,8 @@ File prepared with [Markdown syntax](http://daringfireball.net/projects/markdown
     * [Learn Ruby the Hard Way](http://ruby.learncodethehardway.org/book/)
     * [Ruby Koans](http://rubykoans.com/)
     * [Ruby Monk](http://rubymonk.com/)
+    * [Ruby on rootr](http://www.rootr.net/rubyfaq-1.html)
+    * [Instance and Class variables explainied](http://stackoverflow.com/questions/2752641/ruby-class-instance-variables-and-inheritance)
 
 ## Ruby Basics & Strings
 * [Ruby Docs 2.0](http://ruby-doc.org/)
@@ -56,11 +58,21 @@ File prepared with [Markdown syntax](http://daringfireball.net/projects/markdown
     * Set is easy to use with Enumerable objects (implementing each). Most of the initializer methods and binary operators accept generic Enumerable objects besides sets and arrays. An Enumerable object can be converted to Set using the to_set method.
 
 
+##Testing
+* [rspec]()
+* [Jasmine](http://pivotal.github.io/jasmine/)
+* [Jasmine-jQuery](https://github.com/velesin/jasmine-jquery)
+
+
 ## Misc
 * [Reserved Words in Ruby on Rails](http://reservedwords.herokuapp.com/words?utf8=%E2%9C%93&q%5Bword_or_notes_cont%5D=)
 * [Carrierwave](https://github.com/carrierwaveuploader/carrierwave) - a gem for file uploads
 * [Sublime shortcuts](http://www.marcelkalveram.com/2013/11/10-shortcuts-to-become-a-true-sublime-text-ninja/?ref=heydesigner)
 * [Backbone Tutorial](http://backbonetutorials.com/)
 * [Ruby Toolbox](https://www.ruby-toolbox.com/)
+* [Backbone Patterns](http://ricostacruz.com/backbone-patterns/)
+* [jashkenas backbone](https://github.com/jashkenas/backbone)
+* [Ruby on Rails naming convemctions](http://itsignals.cascadia.com.au/?p=7)
+* [rails date & time calcs](http://api.rubyonrails.org/classes/DateAndTime/Calculations.html)
 
 
