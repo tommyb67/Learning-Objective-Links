@@ -63,8 +63,10 @@ File prepared with [Markdown syntax](http://daringfireball.net/projects/markdown
 * [Jasmine](http://pivotal.github.io/jasmine/)
 * [Jasmine-jQuery](https://github.com/velesin/jasmine-jquery)
 
+##Rails 4
+*[Add Custom Fields to Devise User Model](http://blog.12spokes.com/web-design-development/adding-custom-fields-to-your-devise-user-model-in-rails-4/)
 
-## Misc
+##Misc (actually just need to be categorized)
 * [Reserved Words in Ruby on Rails](http://reservedwords.herokuapp.com/words?utf8=%E2%9C%93&q%5Bword_or_notes_cont%5D=)
 * [Carrierwave](https://github.com/carrierwaveuploader/carrierwave) - a gem for file uploads
 * [Sublime shortcuts](http://www.marcelkalveram.com/2013/11/10-shortcuts-to-become-a-true-sublime-text-ninja/?ref=heydesigner)
