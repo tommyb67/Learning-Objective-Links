@@ -76,5 +76,8 @@ File prepared with [Markdown syntax](http://daringfireball.net/projects/markdown
 * [jashkenas backbone](https://github.com/jashkenas/backbone)
 * [Ruby on Rails naming convemctions](http://itsignals.cascadia.com.au/?p=7)
 * [rails date & time calcs](http://api.rubyonrails.org/classes/DateAndTime/Calculations.html)
+* [Design you portfolio](http://www.smashingmagazine.com/2013/06/25/workflow-design-develop-modern-portfolio-website/)
+* [David Chisnall articles](http://www.informit.com/authors/bio.aspx?a=79C6E6EC-5BC6-49A8-8D5D-0FCCD04B1A7B)
+* [Navy Seal](https://www.sealswcc.com/seal-default.html) - Contains a lot of inspiring material
 
 
